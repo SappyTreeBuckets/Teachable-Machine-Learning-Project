@@ -1,0 +1,21 @@
+body {
+    background-color: purple;
+    color:maroon;
+    }
+    
+    .heading {
+        width: 80%;
+        font-weight: bold;
+        font-size: 35px;
+    }
+    
+    .name_of_objects{
+        font-size: 25px;
+        color: navy;
+    }
+    
+    #camera, #result{
+        border: 2px solid navy;
+        width: 350px;
+        height: 300px;
+    }
